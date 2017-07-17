@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">Hollarena</string>
+    <string name="pin_text">Only Four characters</string>
+
+
+    <string-array name="Sex">
+        <item>Female</item>
+        <item>Male</item>
+    </string-array>
+
+    <!-- Login Activity -->
+    <string name="password">Password</string>
+    <string name="user_name">Username or E-mail</string>
+    <string name="login">Login</string>
+    -
+    <string name="register_txt">Don\'t have an account? <b>Sign Up</b></string>
+    <!---->
+
+    <!-- Navigation bar-->
+    <string name="navigation_bar_first_item">Edit Profile</string>
+    <string name="navigation_bar_second_item">Magazine</string>
+    <string name="navigation_bar_third_item">Forum</string>
+    <string name="navigation_bar_fourth_item">Market Place</string>
+    <string name="open">OPEN</string>
+    <string name="close">CLOSE</string>
 </resources>

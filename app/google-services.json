@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "1050667667056-773jdn2og0qnhej4iunq1vaa0d9oroqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.creation.hollarena",
+            "certificate_hash": "d7a44cdfd642a01e53c52e2feba0044c06514dda"
+          }
+        },
+        {
           "client_id": "1050667667056-9dl37s5qr9vt78m51k0vdp2c4egmecsb.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050667667056-9dl37s5qr9vt78m51k0vdp2c4egmecsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
